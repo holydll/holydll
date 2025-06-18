@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! My name is Freddie and I'm a software and malware developer.</h2>
 
-###
-
-<img align="right" height="170" src="https://i.pinimg.com/736x/ec/ad/0a/ecad0aee2e4dc57a5796fc0e6827195b.jpg"  />
 
 ###
 
